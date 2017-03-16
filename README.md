@@ -22,6 +22,7 @@ For begin, clone this project and run the following commands in your terminal:
 $ git clone https://github.com/Big-Silver/Ionic-GoogleMap.git ionic-google-maps-starter
 $ cd ionic-google-maps-starter 
 $ npm install
+$ ionic serve
 ```
 And add Google Maps JavaScript SDK API_Key in index.html
 
